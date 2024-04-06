@@ -11,3 +11,6 @@ Slide decks from presentations given by Bournemouth 2600 members at monthly meet
 
 ## B2600 Meet on 3 February 2023
 - Talk 1 Slides - [Intercepting Russian Military Communications.pdf](https://github.com/Bournemouth2600/B2600-Talks/blob/main/Intercepting_Russian_Communications.pdf)
+
+## B2600 Meet on 5 April 2023
+- Talk 3 Slides - [The Disinformation Problem](https://github.com/Bournemouth2600/B2600-Talks/blob/main/The%20Disinformation%20Problem.pdf)
